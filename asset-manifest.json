@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/TextLab/static/css/main.073c9b0a.css",
-    "main.js": "/TextLab/static/js/main.51311ae2.js",
+    "main.css": "/TextLab/static/css/main.53a3c627.css",
+    "main.js": "/TextLab/static/js/main.c0ea4daa.js",
     "static/js/787.663bb44b.chunk.js": "/TextLab/static/js/787.663bb44b.chunk.js",
+    "static/media/parbin.jpg": "/TextLab/static/media/parbin.1ba3cac8cc4d339ad980.jpg",
     "index.html": "/TextLab/index.html",
-    "main.073c9b0a.css.map": "/TextLab/static/css/main.073c9b0a.css.map",
-    "main.51311ae2.js.map": "/TextLab/static/js/main.51311ae2.js.map",
+    "main.53a3c627.css.map": "/TextLab/static/css/main.53a3c627.css.map",
+    "main.c0ea4daa.js.map": "/TextLab/static/js/main.c0ea4daa.js.map",
     "787.663bb44b.chunk.js.map": "/TextLab/static/js/787.663bb44b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.51311ae2.js"
+    "static/css/main.53a3c627.css",
+    "static/js/main.c0ea4daa.js"
   ]
 }
